@@ -17,7 +17,6 @@ export class TodoListHeaderComponent {
 
   addTodo(){
   	this.add.emit(this.todoItem);
-
   	this.todoItem = new Todo();
   }
 

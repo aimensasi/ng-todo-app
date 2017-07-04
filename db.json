@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "title": "Read SitePoint article",
+      "complete": true,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "Clean inbox",
+      "complete": false
+    },
+    {
+      "title": "hello world",
+      "complete": false,
+      "id": 4
+    }
+  ]
+}
